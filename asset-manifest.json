@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/jr-weather-app-react/src/static/css/main.65dad3b7.chunk.css",
-    "main.js": "/jr-weather-app-react/src/static/js/main.fbf83a2f.chunk.js",
-    "main.js.map": "/jr-weather-app-react/src/static/js/main.fbf83a2f.chunk.js.map",
-    "runtime-main.js": "/jr-weather-app-react/src/static/js/runtime-main.5d8bff84.js",
-    "runtime-main.js.map": "/jr-weather-app-react/src/static/js/runtime-main.5d8bff84.js.map",
-    "static/js/2.449c82a2.chunk.js": "/jr-weather-app-react/src/static/js/2.449c82a2.chunk.js",
-    "static/js/2.449c82a2.chunk.js.map": "/jr-weather-app-react/src/static/js/2.449c82a2.chunk.js.map",
-    "index.html": "/jr-weather-app-react/src/index.html",
-    "precache-manifest.54fb0b1dad7b144d15850d479a6cd464.js": "/jr-weather-app-react/src/precache-manifest.54fb0b1dad7b144d15850d479a6cd464.js",
-    "service-worker.js": "/jr-weather-app-react/src/service-worker.js",
-    "static/css/main.65dad3b7.chunk.css.map": "/jr-weather-app-react/src/static/css/main.65dad3b7.chunk.css.map",
-    "static/js/2.449c82a2.chunk.js.LICENSE": "/jr-weather-app-react/src/static/js/2.449c82a2.chunk.js.LICENSE"
+    "main.css": "/jr-weather-app-react/static/css/main.65dad3b7.chunk.css",
+    "main.js": "/jr-weather-app-react/static/js/main.64299067.chunk.js",
+    "main.js.map": "/jr-weather-app-react/static/js/main.64299067.chunk.js.map",
+    "runtime-main.js": "/jr-weather-app-react/static/js/runtime-main.1fc7f8f9.js",
+    "runtime-main.js.map": "/jr-weather-app-react/static/js/runtime-main.1fc7f8f9.js.map",
+    "static/js/2.449c82a2.chunk.js": "/jr-weather-app-react/static/js/2.449c82a2.chunk.js",
+    "static/js/2.449c82a2.chunk.js.map": "/jr-weather-app-react/static/js/2.449c82a2.chunk.js.map",
+    "index.html": "/jr-weather-app-react/index.html",
+    "precache-manifest.51b737cc7da966a113016b9d72189315.js": "/jr-weather-app-react/precache-manifest.51b737cc7da966a113016b9d72189315.js",
+    "service-worker.js": "/jr-weather-app-react/service-worker.js",
+    "static/css/main.65dad3b7.chunk.css.map": "/jr-weather-app-react/static/css/main.65dad3b7.chunk.css.map",
+    "static/js/2.449c82a2.chunk.js.LICENSE": "/jr-weather-app-react/static/js/2.449c82a2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d8bff84.js",
+    "static/js/runtime-main.1fc7f8f9.js",
     "static/js/2.449c82a2.chunk.js",
     "static/css/main.65dad3b7.chunk.css",
-    "static/js/main.fbf83a2f.chunk.js"
+    "static/js/main.64299067.chunk.js"
   ]
 }
