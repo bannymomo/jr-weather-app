@@ -20,7 +20,9 @@ function CurrentWeather(props) {
       data-aos-once="false"
     >
       <div className="weather-condition__location">{props.city}</div>
-      <div className="weather-condition__state">Clear</div>
+      <div className="weather-condition__state">
+        {props.currentWeather.weatherDiscription}
+      </div>
       <div className="weather-condition__temp">{temp}</div>
       <div className="weather-condition__desc">
         <div>
